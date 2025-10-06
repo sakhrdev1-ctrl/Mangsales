@@ -1,0 +1,7 @@
+{
+  "name": "Sales Tracker Pro",
+  "description": "A comprehensive dashboard for sales managers to track representative performance, manage client data, and visualize sales activities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
